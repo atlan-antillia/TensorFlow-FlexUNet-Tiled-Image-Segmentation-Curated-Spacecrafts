@@ -253,7 +253,7 @@ This simply runs the following command.
 <b>mini_test_mask(ground_truth)</b><br>
 <img src="./projects/TensorFlowFlexUNet/Curated-Spacecrafts/asset/mini_test_masks.png" width="1024" height="auto"><br>
 <hr>
-<b>Inferred test masks</b><br>
+<b>Tiled inferred mini_test masks</b><br>
 <img src="./projects/TensorFlowFlexUNet/Curated-Spacecrafts/asset/mini_test_output.png" width="1024" height="auto"><br>
 <br>
 <hr>
